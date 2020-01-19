@@ -24,3 +24,4 @@ jobs:
         python nordvpn_best.py --debug 'Sydney, AU'
         python nordvpn_best.py --debug 'US' --load 15
         python nordvpn_best.py --debug 'AU' --load 10 --fping
+        python nordvpn_best.py --debug 'Sydney, AU' --show-mbps
